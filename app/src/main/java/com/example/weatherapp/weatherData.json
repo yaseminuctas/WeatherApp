@@ -1,0 +1,40 @@
+{
+  "coord": {
+    "lon": 28.9497,
+    "lat": 41.0138
+  },
+  "sys": {
+    "country": "TR",
+    "sunrise": 1369769524,
+    "sunset": 1369821049
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "main": {
+    "temp": 282.63,
+    "humidity": 100,
+    "pressure": 1026.99,
+    "temp_min": 281.638,
+    "temp_max": 282.63
+  },
+  "wind": {
+    "speed": 2.76,
+    "deg": 256.503
+  },
+  "rain": {
+    "3h": 0.59
+  },
+  "clouds": {
+    "all": 92
+  },
+  "dt": 1550674800,
+  "id": 745044,
+  "name": "Istanbul",
+  "cod": 200
+}
